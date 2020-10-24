@@ -181,8 +181,8 @@ Template("treino.csv",
           newCanvas(1400 , 700)
          .add(250 ,100 ,getText("A"))
          .add (450 , 100, getText("B"))
-         .add (850 , 100 ,getText("C"))
-         .add (1050, 100, getText("D"))
+         .add (650 , 100 ,getText("C"))
+         .add (850, 100, getText("D"))
          .print()
   ,
                       
