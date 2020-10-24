@@ -24,7 +24,7 @@ A pilha foi criada.," Pelo qu&iacutemico, na  feira.
 ","Quando voc&ecirc leu ""PILHA"", voc&ecirc pensou primeiro em:",Revista,Voltagem,Ambos,Nenhum,H6,1
 O prato foi levado.,"Pelo menino, no sof&aacute.","Quando voc&ecirc leu ""PRATO"", voc&ecirc pensou primeiro em:",Comida ,Lou&ccedila,Ambos,Nenhum,P6,1
 A menina foi curada,"Pelo m&eacutedico, no hospital.
-","Quando voc&ecirc leu ""MENINA"", voc&ecirc pensou primeiro em:",Mulher,Crian&Ccedila,Ambos,Nenhum,DIST1,1
+","Quando voc&ecirc leu ""MENINA"", voc&ecirc pensou primeiro em:",Mulher,Criança,Ambos,Nenhum,DIST1,1
 A &aacutervore foi derrubada.,"Pelo garimpeiro, na floresta.
 ","Quando voc&ecirc leu ""&AacuteRVORE"", voc&ecirc pensou primeiro em:",Sintaxe,Natureza,Ambos,Nenhum,DIST2,1
 O cart&atildeo foi recusado.,"Pela atendente, no banco.
@@ -61,8 +61,8 @@ O carro foi consertado.,"Pelo mecânico,na oficina.
 A caneca foi usada.,"Pela menina, na cozinha.","Quando voc&ecirc leu ""CANECA"", voc&ecirc pensou primeiro em:",Porcelana,Decorada ,Ambos,Nenhum,DIST20,1
 O churrasco foi assado.,"Pela cozinheira, na pens&atildeo.
 ","Quando voc&ecirc leu ""CHURRASCO"", voc&ecirc pensou primeiro em",Carne,Carvão,Ambos,Nenhum,DIST21,1
-A cal&ccedila foi costurada.,"Pela costureira, na f&aacutebrica.
-","Quando voc&ecirc leu ""CAL&ccedilA"", voc&ecirc pensou primeiro em",Verbo,Roupa,Ambos,Nenhum,DIST22,1
+A calça foi costurada.,"Pela costureira, na f&aacutebrica.
+","Quando voc&ecirc leu ""CALÇA"", voc&ecirc pensou primeiro em",Verbo,Roupa,Ambos,Nenhum,DIST22,1
 A colher foi usada.,"Pela menina, na cantina.
 ","Quando voc&ecirc leu ""COLHER"", voc&ecirc pensou primeiro em:",Lou&ccedila ,Flores,Ambos,Nenhum,DIST23,1
 O computador foi quebrado.,"Pelo hacker, na escola.","Quando voc&ecirc leu ""COMPUTADOR"", voc&ecirc pensou primeiro em:",Teclado ,Programas,Ambos,Nenhum,DIST24,1
@@ -136,7 +136,7 @@ O carro foi consertado.,"Pelo mecânico,na oficina.
 A caneca foi usada.,"Pela menina, na cozinha.","Quando voc&ecirc leu ""CANECA"", voc&ecirc pensou primeiro em:",Porcelana,Decorada ,Ambos,Nenhum,DIST20,2
 O churrasco foi assado.,"Pela cozinheira, na pens&atildeo.
 ","Quando voc&ecirc leu ""CHURRASCO"", voc&ecirc pensou primeiro em",Carne,Carvão,Ambos,Nenhum,DIST21,2
-A calçaa foi costurada.,"Pela costureira, na f&aacutebrica.
+A calça foi costurada.,"Pela costureira, na f&aacutebrica.
 ","Quando voc&ecirc leu ""CALÇA"", voc&ecirc pensou primeiro em",Verbo,Roupa,Ambos,Nenhum,DIST22,2
 A colher foi usada.,"Pela menina, na cantina.
 ","Quando voc&ecirc leu ""COLHER"", voc&ecirc pensou primeiro em:",Lou&ccedila ,Flores,Ambos,Nenhum,DIST23,2
