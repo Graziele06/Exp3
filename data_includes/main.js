@@ -160,14 +160,15 @@ Template("treino.csv",
     getText("Frase2")
     .remove()
     ,
-      newText("Pergunta", variable.Pergunta)
+      newText("Pergunta", variable.Pergunta) 
+     ,
         //newKey("ABCD")
         newSelector()
             .add( getOption("A") , getOption("B") , getOption("C") , getOption("D")  )
             .keys(          "Z"    ,          "M" ,       "C" , "       B"  )
             .log()
             .wait()
-            )
+            
 
     .log("Group", variable.Group)
     .log("Item", variable.Item)
@@ -222,6 +223,7 @@ Template("treino.csv",
     .remove()
     ,
   newText("pergunta", variable.pergunta)
+   ,                      
         //newKey("ABCD")
         newSelector()
             .add( getOption("A") , getOption("B") , getOption("C") , getOption("D")  )
