@@ -160,7 +160,8 @@ Template("treino.csv",
     getText("Frase2")
     .remove()
     ,
-      newText("Pergunta", variable.Pergunta) 
+      newText("Pergunta", variable.Pergunta)
+      .print()
      ,
      newText("A",variable.AlternativaA)
      .css("font-size","2.5em")
@@ -246,6 +247,7 @@ Template("treino.csv",
     .remove()
     ,
   newText("pergunta", variable.Pergunta)
+   .print()
    ,                      
        
       newText("A",variable.AlternativaA)
