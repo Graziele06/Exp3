@@ -1,9 +1,9 @@
 Frase1,Frase2,Pergunta,AlternativaA,AlternativaB,AlternativaC,AlternativaD,Item,Group
 "A manga foi cortada.
 ","Pelo vendedor, na loja.","Quando voc&ecirc leu ""MANGA"", voc&ecirc pensou primeiro em:",Fruta,Roupa,Ambos,Nenhum,H1,1
-A tela foi quebrada.,"Pelo porteiro, na casa.","Quando voc&ecirc leu ""TELA"", voc&ecirc pensou primeiro em:",Celular ,Prote&Ccedil&atildeo,Ambos,Nenhum,P1,1
+A tela foi quebrada.,"Pelo porteiro, na casa.","Quando voc&ecirc leu ""TELA"", voc&ecirc pensou primeiro em:",Celular ,Proteção,Ambos,Nenhum,P1,1
 "A bala foi achada.
-","Pela crian&Ccedila,na mesa.
+","Pela crian&ccedila,na mesa.
 ","Quando voc&ecirc leu ""BALA"", voc&ecirc pensou primeiro em:",Doce,Tiro,Ambos,Nenhum,H2,1
 A boca foi sujada.,"Pelo vendedor, no copo.
 ","Quando voc&ecirc leu ""BOCA"", voc&ecirc pensou primeiro em:",Pessoa,Garrafa,Ambos,Nenhum,P2,1
@@ -51,10 +51,10 @@ A torta foi comida.,"Pela aniversariante, na festa.
 ","Quando voc&ecirc leu ""TORTA"", voc&ecirc pensou primeiro em:",Comida ,Adjetivo,Ambos,Nenhum,DIST14,1
 A mesa foi partida.,"Pelo montador, na f&aacutebrica.","Quando voc&ecirc leu ""MESA"", voc&ecirc pensou primeiro em:",Jantar,Jogos,Ambos,Nenhum,DIST15,1
 O copo foi rachado.,"Pela cozinheira, na cozinha.
-","Quando voc&ecirc leu ""COPO"", voc&ecirc pensou primeiro em:",&aacutegua,Vidro,Ambos,Nenhum,DIST16,1
+","Quando voc&ecirc leu ""COPO"", voc&ecirc pensou primeiro em:",&Aacutegua,Vidro,Ambos,Nenhum,DIST16,1
 O leite foi derramado.," Pela crian&ccedila, na cantina.
 ","Quando voc&ecirc leu ""LEITE"", voc&ecirc pensou primeiro em:",Beb&ecirc,Vaca,Ambos,Nenhum,DIST17,1
-O jantar foi cozinhado.,"Pela senhora, na pens&aatildeo.
+O jantar foi cozinhado.,"Pela senhora, na pens&atildeo.
 ","Quando voc&ecirc leu ""JANTAR"", voc&ecirc pensou primeiro em:",Mesa,Festa,Ambos,Nenhum,DIST18,1
 O carro foi consertado.,"Pelo mecânico,na oficina.
 ","Quando voc&ecirc leu ""CARRO"", voc&ecirc pensou primeiro em:",Corrida,Estrada,Ambos,Nenhum,DIST19,1
@@ -68,13 +68,13 @@ A colher foi usada.,"Pela menina, na cantina.
 O computador foi quebrado.,"Pelo hacker, na escola.","Quando voc&ecirc leu ""COMPUTADOR"", voc&ecirc pensou primeiro em:",Teclado ,Programas,Ambos,Nenhum,DIST24,1
 A casa foi comprada.,"Pela senhora, na praia.
 ","Quando voc&ecirc leu ""CASA"", voc&ecirc pensou primeiro em:",Verbo,Morada,Ambos,Nenhum,DIST25,1
-O o&circnibus foi lavado.,"Pelo motorista, na garagem.
-","Quando voc&ecirc leu ""O&circNIBUS"", voc&ecirc pensou primeiro em:",Transporte,Trajeto,Ambos,Nenhum,DIST26,1
+O &ocircnibus foi lavado.,"Pelo motorista, na garagem.
+","Quando voc&ecirc leu ""&OcircNIBUS"", voc&ecirc pensou primeiro em:",Transporte,Trajeto,Ambos,Nenhum,DIST26,1
 A panela foi sujada.,"Pela cozinheira, na pens&atildeo.
-","Quando voc&ecirc leu ""PANELA"", voc&ecirc pensou primeiro em:",Comida ,Louccedila,Ambos,Nenhum,DIST27,1
+","Quando voc&ecirc leu ""PANELA"", voc&ecirc pensou primeiro em:",Comida ,Lou&ccedila,Ambos,Nenhum,DIST27,1
 A mulher foi achada.,"Pela policial, no hospital.
 ","Quando voc&ecirc leu ""MULHER"", voc&ecirc pensou primeiro em:",Adulta,Menina,Ambos,Nenhum,DIST28,1
-A tela foi quebrada.," A tela foi quebrada pela crian&Ccedila, na queda.","Quando voc&ecirc leu ""TELA"", voc&ecirc pensou primeiro em:",Celular ,Prote&Ccedil&atildeo,Ambos,Nenhum,P1,2
+A tela foi quebrada.," A tela foi quebrada pela crian&Ccedila, na queda.","Quando voc&ecirc leu ""TELA"", voc&ecirc pensou primeiro em:",Celular ,Proteção,Ambos,Nenhum,P1,2
 "A manga foi cortada.
 ","A manga foi cortada pela madrasta, no lanche.
 ","Quando voc&ecirc leu ""MANGA"", voc&ecirc pensou primeiro em:",Fruta,Roupa,Ambos,Nenhum,H1,2
@@ -126,7 +126,7 @@ A torta foi comida.,"Pela aniversariante, na festa.
 ","Quando voc&ecirc leu ""TORTA"", voc&ecirc pensou primeiro em:",Comida ,Adjetivo,Ambos,Nenhum,DIST14,2
 A mesa foi partida.,"Pelo montador, na f&aacutebrica.","Quando voc&ecirc leu ""MESA"", voc&ecirc pensou primeiro em:",Jantar,Jogos,Ambos,Nenhum,DIST15,2
 O copo foi rachado.,"Pela cozinheira, na cozinha.
-","Quando voc&ecirc leu ""COPO"", voc&ecirc pensou primeiro em:",&aacutegua,Vidro,Ambos,Nenhum,DIST16,2
+","Quando voc&ecirc leu ""COPO"", voc&ecirc pensou primeiro em:",&Aacutegua,Vidro,Ambos,Nenhum,DIST16,2
 O leite foi derramado.," Pela crian&ccedila, na cantina.
 ","Quando voc&ecirc leu ""LEITE"", voc&ecirc pensou primeiro em:",Beb&ecirc,Vaca,Ambos,Nenhum,DIST17,2
 O jantar foi cozinhado.,"Pela senhora, na pens&atildeo.
