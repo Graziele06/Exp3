@@ -179,10 +179,10 @@ Template("treino.csv",
       
  ,
           newCanvas(1400 , 700)
-         .add( 350 ,100 ,getText("A"))
-         .add (700 , 100, getText("B"))
-         .add (1050 , 100 ,getText("C"))
-         .add ( 1300, 100, getText("D"))
+         .add(300 ,100 ,getText("A"))
+         .add (600 , 100, getText("B"))
+         .add (900 , 100 ,getText("C"))
+         .add (1100, 100, getText("D"))
          .print()
   ,
                       
