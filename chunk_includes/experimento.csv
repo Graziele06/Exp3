@@ -1,13 +1,18 @@
 Frase1,Frase2,Pergunta,AlternativaA,AlternativaB,AlternativaC,AlternativaD,Item,Version
-"A manga foi cortada.","Pelo vendedor, na loja.","Quando voc&ecirc leu ""MANGA"", voc&ecirc pensou primeiro em:",Fruta,Roupa,Ambos,Nenhum,H1,1
+"A manga foi cortada.
+","Pelo vendedor, na loja.","Quando voc&ecirc leu ""MANGA"", voc&ecirc pensou primeiro em:",Fruta,Roupa,Ambos,Nenhum,H1,1
 A tela foi quebrada.,"Pelo porteiro, na casa.","Quando voc&ecirc leu ""TELA"", voc&ecirc pensou primeiro em:",Celular ,Prote&Ccedil&atildeo,Ambos,Nenhum,P1,1
-"A bala foi achada.","Pela crian&Ccedila,na mesa.
+"A bala foi achada.
+","Pela crian&Ccedila,na mesa.
 ","Quando voc&ecirc leu ""BALA"", voc&ecirc pensou primeiro em:",Doce,Tiro,Ambos,Nenhum,H2,1
 A boca foi sujada.,"Pelo vendedor, no copo.
 ","Quando voc&ecirc leu ""BOCA"", voc&ecirc pensou primeiro em:",Pessoa,Garrafa,Ambos,Nenhum,P2,1
-"A renda foi usada.","Pelo banqueiro, no crime.","Quando voc&ecirc leu ""RENDA"", voc&ecirc pensou primeiro em:",Roupa,Banco,Ambos,Nenhum,H3,1
-"A bolacha foi dada.","Pelo esposo, no rosto.","Quando voc&ecirc leu ""BOLACHA"", voc&ecirc pensou primeiro em:",Tapa,Lanche,Ambos,Nenhum,P3,1
-"O banco foi quebrado.","Pelo gerente, na fraude.
+"A renda foi usada.
+","Pelo banqueiro, no crime.","Quando voc&ecirc leu ""RENDA"", voc&ecirc pensou primeiro em:",Roupa,Banco,Ambos,Nenhum,H3,1
+"A bolacha foi dada.
+","Pelo esposo, no rosto.","Quando voc&ecirc leu ""BOLACHA"", voc&ecirc pensou primeiro em:",Tapa,Lanche,Ambos,Nenhum,P3,1
+"O banco foi quebrado.
+","Pelo gerente, na fraude.
 ","Quando voc&ecirc leu ""BANCO"", voc&ecirc pensou primeiro em:",Dinheiro,Madeira,Ambos,Nenhum,H4,1
 O bra&ccedilo foi quebrado.,"Pelo montador, na sala.","Quando voc&ecirc leu ""BRA&ccedilO"", voc&ecirc pensou primeiro em:",Sof&aacute,Corpo,Ambos,Nenhum,P4,1
 "O macaco foi achado.
@@ -32,7 +37,8 @@ O menino foi magoado.,"Pela coleguinha, na creche.
 ","Quando voc&ecirc leu ""MENINO"", voc&ecirc pensou primeiro em",Homem,Crian&ccedila,Ambos,Nenhum,DIST6,1
 A r&eacutegua foi quebrada.,"Pelo estudante, na aula.
 ","Quando voc&ecirc leu ""R&EacuteGUA"", voc&ecirc pensou primeiro em:",Escola,Constru&ccedil&atildeo,Ambos,Nenhum,DIST7,1
-O chinelo foi arrebentado.,"Pela menina, na loja.","Quando voc&ecirc leu ""CHINELO"", voc&ecirc pensou primeiro em:",Ipanema,"Havaiana",Ambos,Nenhum,DIST8,1
+O chinelo foi arrebentado.,"Pela menina, na loja.","Quando voc&ecirc leu ""CHINELO"", voc&ecirc pensou primeiro em:",Ipanema,"Havaiana
+",Ambos,Nenhum,DIST8,1
 A camisa foi manchada.,"Pelo menino, na pens&atildeo.
 ","Quando voc&ecirc leu ""CAMISA"", voc&ecirc pensou primeiro em:",Terno,Xadrez,Ambos,Nenhum,DIST9,1
 O rem&eacutedio foi comprado.,"Pela senhora, na farm&aacutecia.
@@ -69,16 +75,28 @@ A panela foi sujada.,"Pela cozinheira, na pensão.
 A mulher foi achada.,"Pela policial, no hospital.
 ","Quando voc&ecirc leu ""MULHER"", voc&ecirc pensou primeiro em:",Adulta,Menina,Ambos,Nenhum,DIST28,1
 A tela foi quebrada.," A tela foi quebrada pela crian&Ccedila, na queda.","Quando voc&ecirc leu ""TELA"", voc&ecirc pensou primeiro em:",Celular ,Prote&Ccedil&atildeo,Ambos,Nenhum,P1,2
-"A manga foi cortada.","A manga foi cortada pela madrasta, no lanche.","Quando voc&ecirc leu ""MANGA"", voc&ecirc pensou primeiro em:",Fruta,Roupa,Ambos,Nenhum,H1,2
-A boca foi sujada.,"A boca foi sujada pela senhora, no caf&eacute.","Quando voc&ecirc leu ""BOCA"", voc&ecirc pensou primeiro em:",Pessoa,Garrafa,Ambos,Nenhum,P2,2
-A bala foi achada.,"A bala foi achada pela perita,no corpo.","Quando voc&ecirc leu ""BALA"", voc&ecirc pensou primeiro em:",Doce ,Tiro,Ambos,Nenhum,H2,2
+"A manga foi cortada.
+","A manga foi cortada pela madrasta, no lanche.
+","Quando voc&ecirc leu ""MANGA"", voc&ecirc pensou primeiro em:",Fruta,Roupa,Ambos,Nenhum,H1,2
+A boca foi sujada.,"A boca foi sujada pela senhora, no caf&eacute.
+","Quando voc&ecirc leu ""BOCA"", voc&ecirc pensou primeiro em:",Pessoa,Garrafa,Ambos,Nenhum,P2,2
+A bala foi achada.,"A bala foi achada pela perita,no corpo.
+","Quando voc&ecirc leu ""BALA"", voc&ecirc pensou primeiro em:",Doce ,Tiro,Ambos,Nenhum,H2,2
 A bolacha foi dada.,"A bolacha foi dada pela madrasta, na festa .","Quando voc&ecirc leu ""BOLACHA"", voc&ecirc pensou primeiro em:",Tapa,Lanche ,Ambos,Nenhum,P3,2
 A renda foi usada.,"A renda foi usada pelo vendedor, na loja.","Quando voc&ecirc leu ""RENDA"", voc&ecirc pensou primeiro em:",Roupa,Banco,Ambos,Nenhum,H3,2
-"O bra&Ccedilo foi quebrado.","O bra&Ccedilo foi quebrado pelo lutador, na luta.","Quando voc&ecirc leu ""BRA&CcedilO"", voc&ecirc pensou primeiro em:",Sof&aacute,Corpo,Ambos,Nenhum,P4,2
-"O banco foi quebrado.","O banco foi quebrado pelo gerente, na fraude","Quando voc&ecirc leu ""BANCO"", voc&ecirc pensou primeiro em:",Dinheiro,Madeira,Ambos,Nenhum,H4,2
-"O gato foi achado.","O gato foi achado pelo t&eacutecnico, no poste.","Quando voc&ecirc leu ""GATO"", voc&ecirc pensou primeiro em:",Animal,Voltagem,Ambos,Nenhum,P5,2
-"O macaco foi achado.","O macaco foi achado pelo vendedor, no carro.","Quando voc&ecirc leu ""MACACO"", voc&ecirc pensou primeiro em:",Conserto,Animal ,Ambos,Nenhum,H5,2
-O prato foi levado.,"O prato foi levado pelo gar&Ccedilom, na pens&atildeo.","Quando voc&ecirc leu ""PRATO"", voc&ecirc pensou primeiro em:",Comida,Lou&Ccedila,Ambos,Nenhum,P6,2
+"O bra&Ccedilo foi quebrado.
+","O bra&Ccedilo foi quebrado pelo lutador, na luta.
+","Quando voc&ecirc leu ""BRA&CcedilO"", voc&ecirc pensou primeiro em:",Sof&aacute,Corpo,Ambos,Nenhum,P4,2
+"O banco foi quebrado.
+","O banco foi quebrado pelo gerente, na fraude","Quando voc&ecirc leu ""BANCO"", voc&ecirc pensou primeiro em:",Dinheiro,Madeira,Ambos,Nenhum,H4,2
+"O gato foi achado.
+","O gato foi achado pelo t&eacutecnico, no poste.
+","Quando voc&ecirc leu ""GATO"", voc&ecirc pensou primeiro em:",Animal,Voltagem,Ambos,Nenhum,P5,2
+"O macaco foi achado.
+","O macaco foi achado pelo vendedor, no carro.
+","Quando voc&ecirc leu ""MACACO"", voc&ecirc pensou primeiro em:",Conserto,Animal ,Ambos,Nenhum,H5,2
+O prato foi levado.,"O prato foi levado pelo gar&Ccedilom, na pens&atildeo.
+","Quando voc&ecirc leu ""PRATO"", voc&ecirc pensou primeiro em:",Comida,Lou&Ccedila,Ambos,Nenhum,P6,2
 A pilha foi criada.,"A pilha foi criada pelo livreiro, na loja.","Quando voc&ecirc leu ""PILHA"", voc&ecirc pensou primeiro em:",Revista,Voltagem,Ambos,Nenhum,H6,2
 A menina foi curada,"Pelo m&eacutedico, no hospital.
 ","Quando voc&ecirc leu ""MENINA"", voc&ecirc pensou primeiro em:",Mulher,Crian&Ccedila,Ambos,Nenhum,DIST1,2
@@ -94,7 +112,8 @@ O menino foi magoado.,"Pela coleguinha, na creche.
 ","Quando voc&ecirc leu ""MENINO"", voc&ecirc pensou primeiro em",Homem,Crian&ccedila,Ambos,Nenhum,DIST6,2
 A r&eacutegua foi quebrada.,"Pelo estudante, na aula.
 ","Quando voc&ecirc leu ""R&EacuteGUA"", voc&ecirc pensou primeiro em:",Escola,Constru&ccedil&atildeo,Ambos,Nenhum,DIST7,2
-O chinelo foi arrebentado.,"Pela menina, na loja.","Quando voc&ecirc leu ""CHINELO"", voc&ecirc pensou primeiro em:",Ipanema,"Havaiana",Ambos,Nenhum,DIST8,2
+O chinelo foi arrebentado.,"Pela menina, na loja.","Quando voc&ecirc leu ""CHINELO"", voc&ecirc pensou primeiro em:",Ipanema,"Havaiana
+",Ambos,Nenhum,DIST8,2
 A camisa foi manchada.,"Pelo menino, na pens&atildeo.
 ","Quando voc&ecirc leu ""CAMISA"", voc&ecirc pensou primeiro em:",Terno,Xadrez,Ambos,Nenhum,DIST9,2
 O rem&eacutedio foi comprado.,"Pela senhora, na farm&aacutecia.
