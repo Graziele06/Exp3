@@ -1,0 +1,918 @@
+#
+# Results on Saturday October 24 2020 20:06:57 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. EMAIL.
+# 15. AGE.
+# 16. CURSO.
+# 17. DRE.
+# 18. Comments.
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,1,0,welcome,NULL,PennController,0,_Trial_,Start,1603569613298,,,,,,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,1,0,welcome,NULL,DropDown,Escolaridade,Selected,Selecione sua escolaridade,Never,,,,,,Default
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,1,0,welcome,NULL,PennController,0,_Trial_,End,1603569644550,,,,,,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,2,0,tela1,NULL,PennController,1,_Trial_,Start,1603569644558,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,2,0,tela1,NULL,TextInput,tcle,Final,,1603569655219,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,2,0,tela1,NULL,PennController,1,_Trial_,End,1603569655219,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,3,0,tela2,NULL,PennController,2,_Trial_,Start,1603569655224,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,3,0,tela2,NULL,Button,Iniciar,Click,Click,1603569669193,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,3,0,tela2,NULL,PennController,2,_Trial_,End,1603569669195,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Group.
+# 14. Item.
+# 15. Comments.
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,PennController,5,_Trial_,Start,1603569669201,1,T1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,Button,Pr&oacute;ximo,Click,Click,1603569671288,1,T1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569672475,1,T1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,Selector,unnamed-Selector,Selection,A,1603569676000,1,T1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,PennController,5,_Trial_,End,1603569676004,1,T1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,PennController,6,_Trial_,Start,1603569676009,1,T2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,Button,Pr&oacute;ximo,Click,Click,1603569678273,1,T2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569680299,1,T2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,Selector,unnamed-Selector,Selection,A,1603569683023,1,T2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,PennController,6,_Trial_,End,1603569683025,1,T2,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,6,0,tela3,NULL,PennController,3,_Trial_,Start,1603569683030,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,6,0,tela3,NULL,Button,Iniciar,Click,Click,1603569686448,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,6,0,tela3,NULL,PennController,3,_Trial_,End,1603569686448,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Group.
+# 14. Item.
+# 15. Comments.
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,PennController,22,_Trial_,Start,1603569686454,1,DIST4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569688242,1,DIST4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569689352,1,DIST4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569693568,1,DIST4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,PennController,22,_Trial_,End,1603569693569,1,DIST4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,PennController,24,_Trial_,Start,1603569693572,1,DIST6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569695464,1,DIST6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569696492,1,DIST6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569700913,1,DIST6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,PennController,24,_Trial_,End,1603569700915,1,DIST6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,PennController,32,_Trial_,Start,1603569700919,1,DIST14,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569702469,1,DIST14,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569703567,1,DIST14,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569707997,1,DIST14,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,PennController,32,_Trial_,End,1603569707999,1,DIST14,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,PennController,46,_Trial_,Start,1603569708001,1,DIST28,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569709625,1,DIST28,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569711081,1,DIST28,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569714505,1,DIST28,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,PennController,46,_Trial_,End,1603569714506,1,DIST28,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,PennController,28,_Trial_,Start,1603569714509,1,DIST10,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569716271,1,DIST10,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569717550,1,DIST10,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569721332,1,DIST10,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,PennController,28,_Trial_,End,1603569721335,1,DIST10,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,PennController,25,_Trial_,Start,1603569721337,1,DIST7,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569723817,1,DIST7,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569724916,1,DIST7,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569727978,1,DIST7,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,PennController,25,_Trial_,End,1603569727980,1,DIST7,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,PennController,13,_Trial_,Start,1603569727984,1,H4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569729477,1,H4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569730694,1,H4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569733139,1,H4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,PennController,13,_Trial_,End,1603569733142,1,H4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,PennController,40,_Trial_,Start,1603569733144,1,DIST22,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569734586,1,DIST22,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569736652,1,DIST22,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569753000,1,DIST22,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,PennController,40,_Trial_,End,1603569753001,1,DIST22,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,PennController,14,_Trial_,Start,1603569753004,1,P4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569755466,1,P4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569756664,1,P4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569760689,1,P4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,PennController,14,_Trial_,End,1603569760690,1,P4,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,PennController,7,_Trial_,Start,1603569760693,1,H1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569762065,1,H1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569763204,1,H1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569766276,1,H1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,PennController,7,_Trial_,End,1603569766279,1,H1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,PennController,20,_Trial_,Start,1603569766283,1,DIST2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569767784,1,DIST2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569768832,1,DIST2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569771794,1,DIST2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,PennController,20,_Trial_,End,1603569771796,1,DIST2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,PennController,36,_Trial_,Start,1603569771801,1,DIST18,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569773262,1,DIST18,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569787484,1,DIST18,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569794902,1,DIST18,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,PennController,36,_Trial_,End,1603569794904,1,DIST18,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,PennController,27,_Trial_,Start,1603569794906,1,DIST9,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569796759,1,DIST9,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569797986,1,DIST9,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569803038,1,DIST9,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,PennController,27,_Trial_,End,1603569803040,1,DIST9,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,PennController,42,_Trial_,Start,1603569803045,1,DIST24,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569804555,1,DIST24,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569805832,1,DIST24,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569809235,1,DIST24,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,PennController,42,_Trial_,End,1603569809238,1,DIST24,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,PennController,18,_Trial_,Start,1603569809243,1,P6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569810812,1,P6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569812100,1,P6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569815024,1,P6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,PennController,18,_Trial_,End,1603569815025,1,P6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,PennController,26,_Trial_,Start,1603569815028,1,DIST8,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569816402,1,DIST8,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569817470,1,DIST8,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569819505,1,DIST8,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,PennController,26,_Trial_,End,1603569819509,1,DIST8,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,PennController,44,_Trial_,Start,1603569819514,1,DIST26,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569826145,1,DIST26,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569829312,1,DIST26,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569840254,1,DIST26,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,PennController,44,_Trial_,End,1603569840256,1,DIST26,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,PennController,43,_Trial_,Start,1603569840262,1,DIST25,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569841620,1,DIST25,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569842787,1,DIST25,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569845602,1,DIST25,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,PennController,43,_Trial_,End,1603569845603,1,DIST25,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,PennController,37,_Trial_,Start,1603569845605,1,DIST19,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569847159,1,DIST19,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569848206,1,DIST19,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569854963,1,DIST19,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,PennController,37,_Trial_,End,1603569854965,1,DIST19,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,PennController,9,_Trial_,Start,1603569854967,1,H2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569856670,1,H2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569866096,1,H2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569870386,1,H2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,PennController,9,_Trial_,End,1603569870388,1,H2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,PennController,21,_Trial_,Start,1603569870391,1,DIST3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569871884,1,DIST3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569872851,1,DIST3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569874767,1,DIST3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,PennController,21,_Trial_,End,1603569874770,1,DIST3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,PennController,41,_Trial_,Start,1603569874775,1,DIST23,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569876115,1,DIST23,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569877212,1,DIST23,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569879277,1,DIST23,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,PennController,41,_Trial_,End,1603569879280,1,DIST23,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,PennController,11,_Trial_,Start,1603569879283,1,H3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569882411,1,H3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569883209,1,H3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569884905,1,H3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,PennController,11,_Trial_,End,1603569884908,1,H3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,PennController,17,_Trial_,Start,1603569884912,1,H6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569886563,1,H6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569887491,1,H6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569889258,1,H6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,PennController,17,_Trial_,End,1603569889261,1,H6,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,PennController,8,_Trial_,Start,1603569889264,1,P1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569890584,1,P1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569891293,1,P1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569900789,1,P1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,PennController,8,_Trial_,End,1603569900791,1,P1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,PennController,10,_Trial_,Start,1603569900795,1,P2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569902086,1,P2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569903873,1,P2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569906807,1,P2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,PennController,10,_Trial_,End,1603569906809,1,P2,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,PennController,23,_Trial_,Start,1603569906811,1,DIST5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569909931,1,DIST5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569910759,1,DIST5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569912994,1,DIST5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,PennController,23,_Trial_,End,1603569912996,1,DIST5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,PennController,29,_Trial_,Start,1603569913001,1,DIST11,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569914662,1,DIST11,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569915540,1,DIST11,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569917895,1,DIST11,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,PennController,29,_Trial_,End,1603569917897,1,DIST11,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,PennController,35,_Trial_,Start,1603569917901,1,DIST17,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569919133,1,DIST17,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569919863,1,DIST17,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569922266,1,DIST17,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,PennController,35,_Trial_,End,1603569922268,1,DIST17,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,PennController,38,_Trial_,Start,1603569922272,1,DIST20,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569923535,1,DIST20,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569924443,1,DIST20,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569926388,1,DIST20,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,PennController,38,_Trial_,End,1603569926390,1,DIST20,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,PennController,12,_Trial_,Start,1603569926394,1,P3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569927616,1,P3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569928515,1,P3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569929843,1,P3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,PennController,12,_Trial_,End,1603569929844,1,P3,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,PennController,34,_Trial_,Start,1603569929846,1,DIST16,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569932219,1,DIST16,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569932986,1,DIST16,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569946604,1,DIST16,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,PennController,34,_Trial_,End,1603569946606,1,DIST16,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,PennController,16,_Trial_,Start,1603569946611,1,P5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569947951,1,P5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569948708,1,P5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569954019,1,P5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,PennController,16,_Trial_,End,1603569954021,1,P5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,PennController,31,_Trial_,Start,1603569954025,1,DIST13,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569955655,1,DIST13,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569958234,1,DIST13,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569959960,1,DIST13,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,PennController,31,_Trial_,End,1603569959962,1,DIST13,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,PennController,30,_Trial_,Start,1603569959965,1,DIST12,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569961197,1,DIST12,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569962534,1,DIST12,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569964909,1,DIST12,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,PennController,30,_Trial_,End,1603569964911,1,DIST12,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,PennController,45,_Trial_,Start,1603569964914,1,DIST27,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569966437,1,DIST27,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569967455,1,DIST27,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569974013,1,DIST27,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,PennController,45,_Trial_,End,1603569974016,1,DIST27,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,PennController,33,_Trial_,Start,1603569974019,1,DIST15,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569975548,1,DIST15,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569976727,1,DIST15,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603569979271,1,DIST15,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,PennController,33,_Trial_,End,1603569979273,1,DIST15,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,PennController,39,_Trial_,Start,1603569979278,1,DIST21,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569980678,1,DIST21,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569981676,1,DIST21,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569984840,1,DIST21,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,PennController,39,_Trial_,End,1603569984841,1,DIST21,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,PennController,19,_Trial_,Start,1603569984843,1,DIST1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569986229,1,DIST1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603569986936,1,DIST1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603569997937,1,DIST1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,PennController,19,_Trial_,End,1603569997939,1,DIST1,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,PennController,15,_Trial_,Start,1603569997943,1,H5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603569999604,1,H5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603570000483,1,H5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603570002039,1,H5,NULL
+1603570018,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,PennController,15,_Trial_,End,1603570002041,1,H5,NULL
+#
+# Results on Saturday October 24 2020 20:26:34 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. EMAIL.
+# 15. AGE.
+# 16. CURSO.
+# 17. DRE.
+# 18. Comments.
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,1,0,welcome,NULL,PennController,0,_Trial_,Start,1603570931815,,,,,,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,1,0,welcome,NULL,DropDown,Escolaridade,Selected,Selecione sua escolaridade,Never,,,,,,Default
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,1,0,welcome,NULL,PennController,0,_Trial_,End,1603570935435,,,,,,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,2,0,tela1,NULL,PennController,1,_Trial_,Start,1603570935439,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,2,0,tela1,NULL,TextInput,tcle,Final,,1603570937302,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,2,0,tela1,NULL,PennController,1,_Trial_,End,1603570937303,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,3,0,tela2,NULL,PennController,2,_Trial_,Start,1603570937305,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,3,0,tela2,NULL,Button,Iniciar,Click,Click,1603570938839,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,3,0,tela2,NULL,PennController,2,_Trial_,End,1603570938841,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Group.
+# 14. Item.
+# 15. Comments.
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,PennController,5,_Trial_,Start,1603570938843,1,T1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,Button,Pr&oacute;ximo,Click,Click,1603570940186,1,T1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,Button,Pr&oacute;ximo2,Click,Click,1603570940915,1,T1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,Selector,unnamed-Selector,Selection,A,1603570942801,1,T1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,PennController,5,_Trial_,End,1603570942804,1,T1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,PennController,6,_Trial_,Start,1603570942806,1,T2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,Button,Pr&oacute;ximo,Click,Click,1603570944357,1,T2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,Button,Pr&oacute;ximo2,Click,Click,1603570945076,1,T2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,Selector,unnamed-Selector,Selection,A,1603570946962,1,T2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,PennController,6,_Trial_,End,1603570946964,1,T2,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,6,0,tela3,NULL,PennController,3,_Trial_,Start,1603570946966,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,6,0,tela3,NULL,Button,Iniciar,Click,Click,1603570948180,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,6,0,tela3,NULL,PennController,3,_Trial_,End,1603570948180,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Group.
+# 14. Item.
+# 15. Comments.
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,PennController,8,_Trial_,Start,1603570948182,2,H1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603570949775,2,H1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603570950684,2,H1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603570953948,2,H1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,PennController,8,_Trial_,End,1603570953950,2,H1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,PennController,17,_Trial_,Start,1603570953953,2,P6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603570955405,2,P6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603570966345,2,P6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603570976547,2,P6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,PennController,17,_Trial_,End,1603570976549,2,P6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,PennController,13,_Trial_,Start,1603570976550,2,P4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603570982270,2,P4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603570983119,2,P4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603570987115,2,P4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,PennController,13,_Trial_,End,1603570987118,2,P4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,PennController,44,_Trial_,Start,1603570987120,2,DIST26,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603570988662,2,DIST26,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603570989559,2,DIST26,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603570995928,2,DIST26,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,PennController,44,_Trial_,End,1603570995930,2,DIST26,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,PennController,43,_Trial_,Start,1603570995933,2,DIST25,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603570997425,2,DIST25,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571003303,2,DIST25,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571006117,2,DIST25,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,PennController,43,_Trial_,End,1603571006119,2,DIST25,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,PennController,22,_Trial_,Start,1603571006120,2,DIST4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571007704,2,DIST4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571008731,2,DIST4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571011327,2,DIST4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,PennController,22,_Trial_,End,1603571011328,2,DIST4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,PennController,9,_Trial_,Start,1603571011330,2,P2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571012713,2,P2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571013521,2,P2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571017133,2,P2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,PennController,9,_Trial_,End,1603571017135,2,P2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,PennController,28,_Trial_,Start,1603571017138,2,DIST10,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571018610,2,DIST10,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571019778,2,DIST10,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571022323,2,DIST10,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,PennController,28,_Trial_,End,1603571022324,2,DIST10,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,PennController,36,_Trial_,Start,1603571022326,2,DIST18,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571024040,2,DIST18,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571024768,2,DIST18,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571027223,2,DIST18,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,PennController,36,_Trial_,End,1603571027226,2,DIST18,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,PennController,45,_Trial_,Start,1603571027228,2,DIST27,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571029189,2,DIST27,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571029888,2,DIST27,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571031884,2,DIST27,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,PennController,45,_Trial_,End,1603571031886,2,DIST27,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,PennController,37,_Trial_,Start,1603571031889,2,DIST19,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571039024,2,DIST19,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571039722,2,DIST19,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571042128,2,DIST19,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,PennController,37,_Trial_,End,1603571042130,2,DIST19,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,PennController,12,_Trial_,Start,1603571042133,2,H3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571045549,2,H3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571046518,2,H3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571048664,2,H3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,PennController,12,_Trial_,End,1603571048666,2,H3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,PennController,42,_Trial_,Start,1603571048669,2,DIST24,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571050061,2,DIST24,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571050740,2,DIST24,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571052584,2,DIST24,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,PennController,42,_Trial_,End,1603571052587,2,DIST24,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,PennController,41,_Trial_,Start,1603571052592,2,DIST23,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571053971,2,DIST23,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571055389,2,DIST23,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571056996,2,DIST23,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,PennController,41,_Trial_,End,1603571056999,2,DIST23,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,PennController,14,_Trial_,Start,1603571057001,2,H4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571058103,2,H4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571058862,2,H4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571060697,2,H4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,PennController,14,_Trial_,End,1603571060698,2,H4,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,PennController,31,_Trial_,Start,1603571060700,2,DIST13,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571063152,2,DIST13,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571063870,2,DIST13,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571065625,2,DIST13,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,PennController,31,_Trial_,End,1603571065628,2,DIST13,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,PennController,10,_Trial_,Start,1603571065630,2,H2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571066923,2,H2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571067601,2,H2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571069747,2,H2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,PennController,10,_Trial_,End,1603571069748,2,H2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,PennController,32,_Trial_,Start,1603571069749,2,DIST14,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571071423,2,DIST14,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571072161,2,DIST14,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571073708,2,DIST14,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,PennController,32,_Trial_,End,1603571073710,2,DIST14,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,PennController,19,_Trial_,Start,1603571073713,2,DIST1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571075165,2,DIST1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571075874,2,DIST1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571082504,2,DIST1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,PennController,19,_Trial_,End,1603571082506,2,DIST1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,PennController,18,_Trial_,Start,1603571082508,2,H6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571084820,2,H6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571085678,2,H6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571087674,2,H6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,PennController,18,_Trial_,End,1603571087675,2,H6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,PennController,38,_Trial_,Start,1603571087678,2,DIST20,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571089111,2,DIST20,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571089950,2,DIST20,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571091616,2,DIST20,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,PennController,38,_Trial_,End,1603571091618,2,DIST20,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,PennController,29,_Trial_,Start,1603571091621,2,DIST11,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571092834,2,DIST11,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571093673,2,DIST11,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571095519,2,DIST11,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,PennController,29,_Trial_,End,1603571095521,2,DIST11,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,PennController,7,_Trial_,Start,1603571095523,2,P1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571097835,2,P1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571105453,2,P1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571107486,2,P1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,PennController,7,_Trial_,End,1603571107489,2,P1,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,PennController,25,_Trial_,Start,1603571107491,2,DIST7,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571109263,2,DIST7,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571110042,2,DIST7,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571111998,2,DIST7,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,PennController,25,_Trial_,End,1603571112000,2,DIST7,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,PennController,34,_Trial_,Start,1603571112002,2,DIST16,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571114115,2,DIST16,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571114922,2,DIST16,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571116908,2,DIST16,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,PennController,34,_Trial_,End,1603571116910,2,DIST16,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,PennController,20,_Trial_,Start,1603571116911,2,DIST2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571118116,2,DIST2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571118745,2,DIST2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571120251,2,DIST2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,PennController,20,_Trial_,End,1603571120253,2,DIST2,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,PennController,33,_Trial_,Start,1603571120255,2,DIST15,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571121398,2,DIST15,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571122086,2,DIST15,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571123493,2,DIST15,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,PennController,33,_Trial_,End,1603571123495,2,DIST15,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,PennController,26,_Trial_,Start,1603571123496,2,DIST8,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571124721,2,DIST8,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571125440,2,DIST8,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571127056,2,DIST8,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,PennController,26,_Trial_,End,1603571127057,2,DIST8,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,PennController,23,_Trial_,Start,1603571127058,2,DIST5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571128563,2,DIST5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571129212,2,DIST5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571130888,2,DIST5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,PennController,23,_Trial_,End,1603571130890,2,DIST5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,PennController,35,_Trial_,Start,1603571130891,2,DIST17,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571132076,2,DIST17,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571132813,2,DIST17,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571134261,2,DIST17,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,PennController,35,_Trial_,End,1603571134263,2,DIST17,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,PennController,46,_Trial_,Start,1603571134265,2,DIST28,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571135488,2,DIST28,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571136406,2,DIST28,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571137873,2,DIST28,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,PennController,46,_Trial_,End,1603571137876,2,DIST28,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,PennController,27,_Trial_,Start,1603571137877,2,DIST9,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571139340,2,DIST9,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571139978,2,DIST9,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571141545,2,DIST9,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,PennController,27,_Trial_,End,1603571141548,2,DIST9,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,PennController,24,_Trial_,Start,1603571141549,2,DIST6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571142703,2,DIST6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571143421,2,DIST6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571144748,2,DIST6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,PennController,24,_Trial_,End,1603571144750,2,DIST6,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,PennController,30,_Trial_,Start,1603571144751,2,DIST12,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571146425,2,DIST12,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571147383,2,DIST12,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571149388,2,DIST12,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,PennController,30,_Trial_,End,1603571149389,2,DIST12,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,PennController,40,_Trial_,Start,1603571149390,2,DIST22,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571151314,2,DIST22,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571152062,2,DIST22,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571159399,2,DIST22,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,PennController,40,_Trial_,End,1603571159402,2,DIST22,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,PennController,39,_Trial_,Start,1603571159404,2,DIST21,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571160965,2,DIST21,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571162331,2,DIST21,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571163888,2,DIST21,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,PennController,39,_Trial_,End,1603571163889,2,DIST21,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,PennController,21,_Trial_,Start,1603571163890,2,DIST3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571165234,2,DIST3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571165954,2,DIST3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571167679,2,DIST3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,PennController,21,_Trial_,End,1603571167680,2,DIST3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,PennController,15,_Trial_,Start,1603571167681,2,P5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571168787,2,P5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571169516,2,P5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571171400,2,P5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,PennController,15,_Trial_,End,1603571171402,2,P5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,PennController,16,_Trial_,Start,1603571171404,2,H5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571172827,2,H5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571173695,2,H5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571175290,2,H5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,PennController,16,_Trial_,End,1603571175293,2,H5,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,PennController,11,_Trial_,Start,1603571175294,2,P3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571176618,2,P3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571177237,2,P3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571178832,2,P3,NULL
+1603571194,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,PennController,11,_Trial_,End,1603571178834,2,P3,NULL
+#
+# Results on Saturday October 24 2020 20:34:49 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ID.
+# 14. EMAIL.
+# 15. AGE.
+# 16. CURSO.
+# 17. DRE.
+# 18. Comments.
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,1,0,welcome,NULL,PennController,0,_Trial_,Start,1603571469108,,,,,,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,1,0,welcome,NULL,DropDown,Escolaridade,Selected,Selecione sua escolaridade,Never,,,,,,Default
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,1,0,welcome,NULL,PennController,0,_Trial_,End,1603571472763,,,,,,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,2,0,tela1,NULL,PennController,1,_Trial_,Start,1603571472768,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,2,0,tela1,NULL,TextInput,tcle,Final,,1603571474370,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,2,0,tela1,NULL,PennController,1,_Trial_,End,1603571474370,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,3,0,tela2,NULL,PennController,2,_Trial_,Start,1603571474373,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,3,0,tela2,NULL,Button,Iniciar,Click,Click,1603571476035,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,3,0,tela2,NULL,PennController,2,_Trial_,End,1603571476036,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Group.
+# 14. Item.
+# 15. Comments.
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,PennController,5,_Trial_,Start,1603571476039,1,T1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,Button,Pr&oacute;ximo,Click,Click,1603571477690,1,T1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571478447,1,T1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,Selector,unnamed-Selector,Selection,A,1603571480852,1,T1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,4,0,treino,NULL,PennController,5,_Trial_,End,1603571480855,1,T1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,PennController,6,_Trial_,Start,1603571480856,1,T2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,Button,Pr&oacute;ximo,Click,Click,1603571482268,1,T2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571483993,1,T2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,Selector,unnamed-Selector,Selection,A,1603571485140,1,T2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,5,0,treino,NULL,PennController,6,_Trial_,End,1603571485142,1,T2,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,6,0,tela3,NULL,PennController,3,_Trial_,Start,1603571485143,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,6,0,tela3,NULL,Button,Iniciar,Click,Click,1603571486398,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,6,0,tela3,NULL,PennController,3,_Trial_,End,1603571486399,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Group.
+# 14. Item.
+# 15. Comments.
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,PennController,39,_Trial_,Start,1603571486401,1,DIST21,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571487894,1,DIST21,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571488981,1,DIST21,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571491263,1,DIST21,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,39,0,experimento,NULL,PennController,39,_Trial_,End,1603571491266,1,DIST21,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,PennController,33,_Trial_,Start,1603571491269,1,DIST15,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571492510,1,DIST15,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571493568,1,DIST15,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571495034,1,DIST15,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,33,0,experimento,NULL,PennController,33,_Trial_,End,1603571495037,1,DIST15,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,PennController,23,_Trial_,Start,1603571495040,1,DIST5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571496291,1,DIST5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571497039,1,DIST5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571498664,1,DIST5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,23,0,experimento,NULL,PennController,23,_Trial_,End,1603571498667,1,DIST5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,PennController,13,_Trial_,Start,1603571498669,1,H4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571499783,1,H4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571500551,1,H4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571502536,1,H4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,13,0,experimento,NULL,PennController,13,_Trial_,End,1603571502537,1,H4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,PennController,16,_Trial_,Start,1603571502538,1,P5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571503901,1,P5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571504809,1,P5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571507931,1,P5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,16,0,experimento,NULL,PennController,16,_Trial_,End,1603571507934,1,P5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,PennController,43,_Trial_,Start,1603571507936,1,DIST25,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571509388,1,DIST25,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571510125,1,DIST25,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571511869,1,DIST25,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,43,0,experimento,NULL,PennController,43,_Trial_,End,1603571511870,1,DIST25,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,PennController,45,_Trial_,Start,1603571511872,1,DIST27,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571512938,1,DIST27,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571513905,1,DIST27,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571515900,1,DIST27,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,45,0,experimento,NULL,PennController,45,_Trial_,End,1603571515903,1,DIST27,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,PennController,26,_Trial_,Start,1603571515905,1,DIST8,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571517855,1,DIST8,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571518573,1,DIST8,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571520477,1,DIST8,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,26,0,experimento,NULL,PennController,26,_Trial_,End,1603571520479,1,DIST8,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,PennController,35,_Trial_,Start,1603571520480,1,DIST17,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571521756,1,DIST17,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571522554,1,DIST17,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571525206,1,DIST17,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,35,0,experimento,NULL,PennController,35,_Trial_,End,1603571525208,1,DIST17,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,PennController,17,_Trial_,Start,1603571525210,1,H6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571526342,1,H6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571527201,1,H6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571528816,1,H6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,17,0,experimento,NULL,PennController,17,_Trial_,End,1603571528819,1,H6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,PennController,41,_Trial_,Start,1603571528821,1,DIST23,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571530175,1,DIST23,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571530890,1,DIST23,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571533196,1,DIST23,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,41,0,experimento,NULL,PennController,41,_Trial_,End,1603571533198,1,DIST23,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,PennController,22,_Trial_,Start,1603571533201,1,DIST4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571535002,1,DIST4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571535930,1,DIST4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571537695,1,DIST4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,22,0,experimento,NULL,PennController,22,_Trial_,End,1603571537697,1,DIST4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,PennController,42,_Trial_,Start,1603571537700,1,DIST24,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571538993,1,DIST24,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571539671,1,DIST24,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571541487,1,DIST24,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,42,0,experimento,NULL,PennController,42,_Trial_,End,1603571541489,1,DIST24,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,PennController,29,_Trial_,Start,1603571541495,1,DIST11,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571542694,1,DIST11,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571543951,1,DIST11,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571545498,1,DIST11,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,29,0,experimento,NULL,PennController,29,_Trial_,End,1603571545499,1,DIST11,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,PennController,38,_Trial_,Start,1603571545502,1,DIST20,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571546596,1,DIST20,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571547383,1,DIST20,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571548980,1,DIST20,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,38,0,experimento,NULL,PennController,38,_Trial_,End,1603571548982,1,DIST20,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,PennController,40,_Trial_,Start,1603571548984,1,DIST22,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571550377,1,DIST22,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571551345,1,DIST22,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571560277,1,DIST22,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,40,0,experimento,NULL,PennController,40,_Trial_,End,1603571560279,1,DIST22,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,PennController,34,_Trial_,Start,1603571560282,1,DIST16,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571561614,1,DIST16,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571562492,1,DIST16,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571564067,1,DIST16,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,34,0,experimento,NULL,PennController,34,_Trial_,End,1603571564068,1,DIST16,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,PennController,32,_Trial_,Start,1603571564070,1,DIST14,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571565483,1,DIST14,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571566192,1,DIST14,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571568326,1,DIST14,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,32,0,experimento,NULL,PennController,32,_Trial_,End,1603571568328,1,DIST14,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,PennController,25,_Trial_,Start,1603571568329,1,DIST7,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571569423,1,DIST7,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571570082,1,DIST7,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571571677,1,DIST7,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,25,0,experimento,NULL,PennController,25,_Trial_,End,1603571571678,1,DIST7,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,PennController,11,_Trial_,Start,1603571571679,1,H3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571573074,1,H3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571573882,1,H3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571575817,1,H3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,11,0,experimento,NULL,PennController,11,_Trial_,End,1603571575821,1,H3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,PennController,10,_Trial_,Start,1603571575823,1,P2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571577144,1,P2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571577793,1,P2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571581283,1,P2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,10,0,experimento,NULL,PennController,10,_Trial_,End,1603571581285,1,P2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,PennController,36,_Trial_,Start,1603571581288,1,DIST18,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571582860,1,DIST18,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571583947,1,DIST18,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571586230,1,DIST18,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,36,0,experimento,NULL,PennController,36,_Trial_,End,1603571586233,1,DIST18,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,PennController,27,_Trial_,Start,1603571586235,1,DIST9,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571591201,1,DIST9,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571592129,1,DIST9,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571594124,1,DIST9,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,27,0,experimento,NULL,PennController,27,_Trial_,End,1603571594126,1,DIST9,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,PennController,37,_Trial_,Start,1603571594128,1,DIST19,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571595611,1,DIST19,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571596639,1,DIST19,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571598226,1,DIST19,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,37,0,experimento,NULL,PennController,37,_Trial_,End,1603571598228,1,DIST19,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,PennController,9,_Trial_,Start,1603571598230,1,H2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571599661,1,H2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571600459,1,H2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571601966,1,H2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,9,0,experimento,NULL,PennController,9,_Trial_,End,1603571601967,1,H2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,PennController,18,_Trial_,Start,1603571601969,1,P6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571603224,1,P6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571604080,1,P6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571605627,1,P6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,18,0,experimento,NULL,PennController,18,_Trial_,End,1603571605629,1,P6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,PennController,20,_Trial_,Start,1603571605631,1,DIST2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571607014,1,DIST2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571607702,1,DIST2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571609618,1,DIST2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,20,0,experimento,NULL,PennController,20,_Trial_,End,1603571609619,1,DIST2,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,PennController,44,_Trial_,Start,1603571609620,1,DIST26,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571611213,1,DIST26,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571612010,1,DIST26,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571613428,1,DIST26,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,44,0,experimento,NULL,PennController,44,_Trial_,End,1603571613430,1,DIST26,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,PennController,31,_Trial_,Start,1603571613432,1,DIST13,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571614805,1,DIST13,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571615453,1,DIST13,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571616880,1,DIST13,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,31,0,experimento,NULL,PennController,31,_Trial_,End,1603571616882,1,DIST13,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,PennController,8,_Trial_,Start,1603571616884,1,P1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571618197,1,P1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571618946,1,P1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571620402,1,P1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,8,0,experimento,NULL,PennController,8,_Trial_,End,1603571620405,1,P1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,PennController,46,_Trial_,Start,1603571620407,1,DIST28,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571622047,1,DIST28,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571622786,1,DIST28,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571625969,1,DIST28,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,46,0,experimento,NULL,PennController,46,_Trial_,End,1603571625971,1,DIST28,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,PennController,28,_Trial_,Start,1603571625973,1,DIST10,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571627454,1,DIST10,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571628462,1,DIST10,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571630198,1,DIST10,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,28,0,experimento,NULL,PennController,28,_Trial_,End,1603571630200,1,DIST10,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,PennController,7,_Trial_,Start,1603571630202,1,H1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571631745,1,H1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571632433,1,H1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571634767,1,H1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,7,0,experimento,NULL,PennController,7,_Trial_,End,1603571634769,1,H1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,PennController,30,_Trial_,Start,1603571634771,1,DIST12,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571636454,1,DIST12,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571637212,1,DIST12,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571639357,1,DIST12,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,30,0,experimento,NULL,PennController,30,_Trial_,End,1603571639359,1,DIST12,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,PennController,15,_Trial_,Start,1603571639361,1,H5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571640784,1,H5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571641742,1,H5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571644586,1,H5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,15,0,experimento,NULL,PennController,15,_Trial_,End,1603571644588,1,H5,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,PennController,21,_Trial_,Start,1603571644589,1,DIST3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571645951,1,DIST3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571646790,1,DIST3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571648456,1,DIST3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,21,0,experimento,NULL,PennController,21,_Trial_,End,1603571648458,1,DIST3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,PennController,14,_Trial_,Start,1603571648460,1,P4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571649754,1,P4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571650632,1,P4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,Selector,unnamed-Selector,Selection,B,1603571652257,1,P4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,14,0,experimento,NULL,PennController,14,_Trial_,End,1603571652259,1,P4,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,PennController,12,_Trial_,Start,1603571652260,1,P3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571653714,1,P3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571654552,1,P3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571656189,1,P3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,12,0,experimento,NULL,PennController,12,_Trial_,End,1603571656190,1,P3,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,PennController,24,_Trial_,Start,1603571656191,1,DIST6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571657475,1,DIST6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571658563,1,DIST6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571660997,1,DIST6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,24,0,experimento,NULL,PennController,24,_Trial_,End,1603571660998,1,DIST6,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,PennController,19,_Trial_,Start,1603571660999,1,DIST1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,Button,Pr&oacute;ximo,Click,Click,1603571662303,1,DIST1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,Button,Pr&oacute;ximo2,Click,Click,1603571663011,1,DIST1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,Selector,unnamed-Selector,Selection,A,1603571673631,1,DIST1,NULL
+1603571689,b22c329c2befd55c020c44453e01bda5,PennController,19,0,experimento,NULL,PennController,19,_Trial_,End,1603571673632,1,DIST1,NULL
