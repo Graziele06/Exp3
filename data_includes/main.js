@@ -145,7 +145,7 @@ Template("treino.csv",
     getText("frase1")
     .remove()
     ,
-  newText("Frase2", variable. Frase2)
+  newText("Frase2", variable.Frase2)
  .css("font-size","2.5em")
  .print()
  ,
