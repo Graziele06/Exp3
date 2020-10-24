@@ -142,7 +142,7 @@ Template("treino.csv",
             .wait()
             .remove()
             ,
-    getText("frase1")
+    getText("Frase1")
     .remove()
     ,
   newText("Frase2", variable.Frase2)
