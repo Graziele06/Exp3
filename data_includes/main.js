@@ -162,6 +162,7 @@ Template("treino.csv",
     ,
       newText("Pergunta", variable.Pergunta)
       .css("font-size","2.5em")
+      .css("text-align" , "center")
       .print()
      ,
      newText("A",variable.AlternativaA)
