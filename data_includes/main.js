@@ -183,6 +183,7 @@ Template("treino.csv",
          .add (700 , 100, getText("B"))
          .add (1050 , 100 ,getText("C"))
          .add ( 1300, 100, getText("D"))
+         .print()
   ,
                       
     //newKey("ABCD")
