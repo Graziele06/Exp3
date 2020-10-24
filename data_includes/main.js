@@ -184,8 +184,8 @@ Template("treino.csv",
           newCanvas(1400 , 700)
          .add(300 ,100 ,getText("A"))
          .add (500 , 100, getText("B"))
-         .add (700, 100 ,getText("C"))
-         .add (900, 100, getText("D"))
+         .add (800, 100 ,getText("C"))
+         .add (1000, 100, getText("D"))
          .print()
   ,
                       
@@ -273,8 +273,8 @@ Template("treino.csv",
         newCanvas(1400 , 700)
          .add(300 ,100 ,getText("A"))
          .add (500 , 100, getText("B"))
-         .add (700, 100 ,getText("C"))
-         .add (900, 100, getText("D"))
+         .add (800, 100 ,getText("C"))
+         .add (1000, 100, getText("D"))
          .print()            
          ,
         //newKey("ABCD")
