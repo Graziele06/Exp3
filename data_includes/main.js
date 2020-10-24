@@ -184,7 +184,7 @@ Template("treino.csv",
             .keys(          "Z"    ,          "M" ,          "C" ,     "B"  )
             .log()
             .wait()
-         ,
+    )
     .log("Group", variable.Group)
     .log("Item", variable.Item)
  )
@@ -262,7 +262,7 @@ Template("treino.csv",
             .keys(          "Z"    ,          "M" ,          "C" ,     "B"  )
             .log()
             .wait()
-         ,
+         
 )
     .log("Group", variable.Group)
     .log("Item", variable.Item)
