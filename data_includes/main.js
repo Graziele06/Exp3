@@ -10,7 +10,7 @@ newTrial("welcome",
     ,
     newText("<p>Bem-vindx!</p>")
     ,
-    newText("<p>Neste experimento, voc&ecirc; vai ler uma frase,que deve ser lida rapidamente e com aten&ccedil&atildeo.</p> Em seguida, voc&ecirc vai passar para a tela seguinte, apertando o bot&atilde;o &quot;Pr&oacute;ximo&quot e ler&aacute outra frase.</p> Voc&ecirc dever&aacute apertar obot&atilde;o &quot;Pr&oacute;ximo&quot novamente. Depois voc&ecirc deve escolher a melhor op&ccedil;&atildeo de resposta para a pergunta que vai aparecer na tela.</p>")
+    newText("<p>Neste experimento, voc&ecirc; vai ler uma frase,que deve ser lida rapidamente e com aten&ccedil&atildeo.</p> Em seguida, voc&ecirc vai passar para a tela seguinte, apertando o bot&atilde;o &quot;Pr&oacute;ximo&quot e ler&aacute outra frase.</p> Voc&ecirc dever&aacute apertar o bot&atilde;o &quot;Pr&oacute;ximo&quot novamente. Depois voc&ecirc deve escolher a melhor op&ccedil;&atildeo de resposta para a pergunta que vai aparecer na tela.</p>")
     ,
     newText("<p>Por favor, escreva seu NOME COMPLETO na caixa abaixo.</p>")
     ,
