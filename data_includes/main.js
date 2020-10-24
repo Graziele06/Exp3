@@ -250,20 +250,27 @@ Template("treino.csv",
        
       newText("A",variable.AlternativaA)
      .css("font-size","2.5em")
-     .print()
+    
         ,
         newText("B",variable.AlternativaB)
        .css("font-size","2.5em")
-       .print()
+      
             ,
      newText("C",variable.AlternativaC)
        .css("font-size","2.5em")
-       .print()
+       
 ,
           newText("D",variable.AlternativaD)
        .css("font-size","2.5em")
-       .print()
+       
  ,
+         newCanvas(1400 , 700)
+         .add(250 ,100 ,getText("A"))
+         .add (450 , 100, getText("B"))
+         .add (650 , 100 ,getText("C"))
+         .add (850, 100, getText("D"))
+         .print()
+         ,
         //newKey("ABCD")
         newSelector()
             .add( getText("A") , getText("B") , getText("C") , getText("D")  )
