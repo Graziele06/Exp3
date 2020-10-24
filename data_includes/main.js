@@ -162,17 +162,32 @@ Template("treino.csv",
     ,
       newText("Pergunta", variable.Pergunta) 
      ,
-        //newKey("ABCD")
+     newText("A",variable.AlternativaA)
+     .css("font-size","2.5em")
+     .print()
+        ,
+        newText("B",variable.AlternativaB)
+       .css("font-size","2.5em")
+       .print()
+            ,
+     newText("C",variable.AlternativaC)
+       .css("font-size","2.5em")
+       .print()
+,
+          newText("D",variable.AlternativaD)
+       .css("font-size","2.5em")
+       .print()
+ ,
+    //newKey("ABCD")
         newSelector()
-            .add( getOption("A") , getOption("B") , getOption("C") , getOption("D")  )
-            .keys(          "Z"    ,          "M" ,       "C" , "       B"  )
+            .add( getText("A") , getText("B") , getText("C") , getText("D")  )
+            .keys(          "Z"    ,          "M" ,          "C" ,     "B"  )
             .log()
             .wait()
-           )) 
-
+         ,
     .log("Group", variable.Group)
     .log("Item", variable.Item)
- 
+ )
     newTrial("tela3",
     defaultText
     .css("font-size","1.2em")
@@ -224,13 +239,7 @@ Template("treino.csv",
     ,
   newText("pergunta", variable.pergunta)
    ,                      
-        //newKey("ABCD")
-        newSelector()
-            .add( getOption("A") , getOption("B") , getOption("C") , getOption("D")  )
-            .keys(          "Z"    ,          "M" ,          "C" ,     "B"  )
-            .log()
-            .wait()
-         ,
+       
       newText("A",variable.AlternativaA)
      .css("font-size","2.5em")
      .print()
@@ -246,12 +255,19 @@ Template("treino.csv",
           newText("D",variable.AlternativaD)
        .css("font-size","2.5em")
        .print()
-))
+ ,
+        //newKey("ABCD")
+        newSelector()
+            .add( getText("A") , getText("B") , getText("C") , getText("D")  )
+            .keys(          "Z"    ,          "M" ,          "C" ,     "B"  )
+            .log()
+            .wait()
+         ,
+)
     .log("Group", variable.Group)
     .log("Item", variable.Item)
+    )
     
- 
-        
  newTrial("final"
  ,
     newText ("<p> Obrigada pela participa&ccedil;&atilde;o!</p>")
