@@ -164,20 +164,27 @@ Template("treino.csv",
      ,
      newText("A",variable.AlternativaA)
      .css("font-size","2.5em")
-     .print()
+     
         ,
         newText("B",variable.AlternativaB)
        .css("font-size","2.5em")
-       .print()
+       
             ,
      newText("C",variable.AlternativaC)
        .css("font-size","2.5em")
-       .print()
+       
 ,
           newText("D",variable.AlternativaD)
        .css("font-size","2.5em")
-       .print()
+      
  ,
+          newCanvas(1400 , 700)
+         .add( 350 ,100 ,getText("A"))
+         .add (700 , 100, getText("B"))
+         .add (1050 , 100 ,getText("C"))
+         .add ( 1300, 100, getText("D"))
+  ,
+                      
     //newKey("ABCD")
         newSelector()
             .add( getText("A") , getText("B") , getText("C") , getText("D")  )
