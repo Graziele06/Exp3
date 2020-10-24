@@ -250,6 +250,7 @@ Template("treino.csv",
     ,
   newText("pergunta", variable.Pergunta)
   .css("font-size","2.5em")
+  .center()
    .print()
    ,                      
        
