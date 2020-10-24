@@ -237,7 +237,7 @@ Template("treino.csv",
     getText("Frase2")
     .remove()
     ,
-  newText("pergunta", variable.pergunta)
+  newText("pergunta", variable.Pergunta)
    ,                      
        
       newText("A",variable.AlternativaA)
