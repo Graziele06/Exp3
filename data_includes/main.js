@@ -115,9 +115,9 @@ defaultText
         ,
         newText ("Leia a frase com aten&ccedil;&atilde;o e depois clique no bot&atilde;o &quot;Pr&oacute;ximo&quot; para ler a pr&oacute;xima frase .</p>")
         ,
-        newText("<p>Clique  novamente no bot&atilde;o &quot;Pr&oacute;ximo&quot e responda a pergunta, clicando em uma das quatro palavras na tela.</p>Clique na palavra que voc&ecirc achar que melhor responde a pergunta.</p>")
+        newText("Clique  novamente no bot&atilde;o &quot;Pr&oacute;ximo&quot e responda a pergunta, clicando em uma das quatro palavras na tela.</p>Clique na palavra que voc&ecirc achar que melhor responde a pergunta.</p>")
         ,
-        newText("<p>Aperte &quot;Iniciar&quot; para come&ccedil;ar</p>")
+        newText("Aperte &quot;Iniciar&quot; para come&ccedil;ar.</p>")
         ,
          newButton("Iniciar")
             .css("font-size","1.2em")
